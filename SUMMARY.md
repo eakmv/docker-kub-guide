@@ -1,7 +1,10 @@
 # Table of contents
 
 * [README](README.md)
-* [README](simpleweb.md)
-* [README](visits.md)
-* [README](frontend.md)
+
+## docs
+
+* [README](docs/simpleweb.md)
+* [visits](docs/visits.md)
+* [npm](docs/frontend.md)
 
