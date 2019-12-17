@@ -1,0 +1,12 @@
+FROM node:alpine
+
+WORKDIR '/app'
+
+COPY package.json .
+RUN chmod -R 777 /app
+RUN npm install
+
+COPY . .
+
+CMD ["npm", "run", "start"]
+
