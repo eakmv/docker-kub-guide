@@ -1,2 +1,0 @@
-before install:
-	- cd eakmv/docker-kub-guide/workflow_frontend
