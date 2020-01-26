@@ -20,3 +20,9 @@ description: Multi-container application.
 
 ![](.gitbook/assets/image.png)
 
+![&#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x439;&#x43A;&#x430; nginx](.gitbook/assets/image%20%2821%29.png)
+
+![nginx](.gitbook/assets/image%20%2818%29.png)
+
+![](.gitbook/assets/image%20%2816%29.png)
+
